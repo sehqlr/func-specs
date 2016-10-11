@@ -2,6 +2,8 @@
 A collection of functional specifications for software systems I've dreamed up.
 Below is a "worksheet" of sorts for brainstorming for a func spec.
 
+**NOTE**: most of these are incomplete
+
 ## Functional Specification Worksheet
 
 In the first iteration of this worksheet, I'm going to borrow heavily from
